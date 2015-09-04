@@ -5,13 +5,14 @@ function setup() {
 
 function draw() {
 	// clear the background
-	background(0, 0, 0);
+	background(110, 110, 110);
 
 	// set a fill color
-	fill(255, 255, 255);
+	fill(255, 150, 0);
 
 	// set a stroke color
-	stroke(255, 0, 0);
+	stroke(255, 125, 0);
+	strokeWeight(3);
 
 	// draw a circle
 	ellipse(320, 180, 100, 100);
