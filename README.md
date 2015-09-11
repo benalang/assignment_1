@@ -6,6 +6,6 @@
 
 ## The Fallen Words of Professor Hound
 
-![Output](output.png)
+![Output](screenshot.png)
 
 ^ put a screengrab of your final output here
